@@ -1,0 +1,5 @@
+name = "rich-rss-reader"
+pages_build_output_dir = "out"
+compatibility_date = "2025-01-01"
+# If your function is NOT at root/functions, set this:
+# pages_functions_dir = "src/functions"
