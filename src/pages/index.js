@@ -363,7 +363,7 @@ const FeedForm = ({
           <button
             type="button"
             onClick={() => setShowSettings(!showSettings)}
-            className="px-4 py-4 rounded-2xl border border-gray-200 bg-white hover:bg-gray-50 text-gray-600 hover:text-gray-800 shadow-sm hover:shadow-md transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
+            className="hidden md:block px-4 py-4 rounded-2xl border border-gray-200 bg-white hover:bg-gray-50 text-gray-600 hover:text-gray-800 shadow-sm hover:shadow-md transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2"
             title="Settings"
           >
             ⚙️
